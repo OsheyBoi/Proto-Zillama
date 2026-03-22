@@ -13,12 +13,12 @@ V1 Checklist
 -----------------
 - Player with basic movement ✅
   
-- Level 1 - 13 ✅ ~70%
+- Level 1 - 13 ✅ ~80%
 
 - Saving Feature ❌ 0%
 
-- Gimmicks like: ❌ 0%
-   - Portals ❌ 0%
+- Gimmicks like: 33% ✅
+   - Portals ✅
    - Buttons ❌ 0%
    - Lazers  ❌ 0%
 
@@ -28,7 +28,7 @@ V1 Checklist
    - Level Icon (New)    
    - Death Counter (New) 
      
-- V1.0 Menu ❌ 0m%
+- V1.0 Menu ❌ 0
   - Level Selector  ❌ 0%
   - Settings        ❌ 0%
   - Reset    ❌ 0%
