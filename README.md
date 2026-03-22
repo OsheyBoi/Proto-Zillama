@@ -24,11 +24,11 @@ V1 Checklist
 
 - Music ❌ 0%
   
-- Basic Ui Layout ❌ 0%
-   - Level Icon (New)    ❌ 0%
-   - Death Counter (New) ❌ 0%
+- Basic Ui Layout ✅ 
+   - Level Icon (New)    
+   - Death Counter (New) 
      
-- V1.0 Menu ❌ 0%
+- V1.0 Menu ❌ 0m%
   - Level Selector  ❌ 0%
   - Settings        ❌ 0%
   - Reset    ❌ 0%
