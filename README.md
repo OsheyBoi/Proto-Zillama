@@ -14,13 +14,17 @@ V1 Checklist
 - Player with basic movement ✅
   
 - Level 1 - 13 ✅ ~80%
+- Level 14 - 24 ✅ ~0%
+
 
 - Saving Feature ❌ 0%
 
-- Gimmicks like: 33% ✅
+- Gimmicks like: 25% ✅
    - Portals ✅
    - Buttons ❌ 0%
    - Lazers  ❌ 0%
+  - Multi Levels (Basicly one Larger level) ❌ 0%
+
 
 - Music ❌ 0%
   
@@ -31,17 +35,13 @@ V1 Checklist
 - V1.0 Menu ❌ 0
   - Level Selector  ❌ 0%
   - Settings        ❌ 0%
-  - Reset    ❌ 0%
+  - Reset           ❌ 0%
 
 
 -------------------
-Upcoming V2 Checklist (So Far)
+Upcoming V2
 -----------------
 
-- Level 14 - 20 ❌ 0%
-  
-  - New Gimmick: ❌ 0%)
-    - Multi Levels (Basicly one Larger level)
 
 - V2.0 Menu ❌ 0%
   - Stats    ❌ 0%
